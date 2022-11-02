@@ -1,0 +1,19 @@
+.card{
+text-align: center;
+margin-bottom: 2em;
+}
+
+.timing-container{
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  margin: 1em;
+  padding:1em;
+}
+
+
+
+
+img{
+  width: 50%;
+}
